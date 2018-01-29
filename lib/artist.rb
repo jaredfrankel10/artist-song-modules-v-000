@@ -10,7 +10,7 @@ class Artist
 
   @@artists = []
 
-  
+
 
   def initialize
     super
@@ -21,7 +21,7 @@ class Artist
     @@artists
   end
 
-  
+
 
   def add_song(song)
     @songs << song
